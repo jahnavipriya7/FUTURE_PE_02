@@ -7,28 +7,43 @@ Generate a complete UGC ad content pack in one prompt.
 Replace bracketed fields with product details and paste into AI.
 
 ## Prompt
+You are an expert UGC ad copywriter with 10+ years of experience creating viral, high-converting social media ads. Generate a complete UGC ad content pack for the following product.
 
-```
-You are an expert UGC ad scriptwriter and performance marketer.
+PRODUCT DETAILS:
+- Product Name: [PRODUCT NAME]
+- Industry: [INDUSTRY]
+- Target Audience: [DEMOGRAPHICS + PSYCHOGRAPHICS]
+- Main Benefit: [PRIMARY RESULT/TRANSFORMATION]
+- Pain Points: [TOP 3 PROBLEMS SOLVED]
+- USP: [WHAT MAKES THIS DIFFERENT]
+- Brand Voice: [CASUAL / PROFESSIONAL / EDGY / FRIENDLY]
+- Platform: [TIKTOK / REELS / FACEBOOK / YOUTUBE SHORTS]
+- Goal: [AWARENESS / LEADS / SALES]
+- Price Point: [PRICE]
+- Social Proof: [REVIEWS, STATS, TESTIMONIALS]
 
-Product Name: [YOUR PRODUCT NAME]
-Product Category: [CATEGORY]
-Key Benefit #1: [MAIN BENEFIT]
-Key Benefit #2: [SECONDARY BENEFIT]
-Key Benefit #3: [THIRD BENEFIT]
-Target Audience: [WHO IS THIS FOR]
-Primary Pain Point: [WHAT PROBLEM DOES THIS SOLVE]
-Price Point: [PRICE]
-Offer / CTA: [e.g., "50% off for the next 24 hours"]
-Platform: [TikTok / Instagram Reels / YouTube Shorts / Facebook]
-Tone: [e.g., relatable, energetic, emotional, educational, humorous]
+GENERATE:
+1. 15 HOOKS (5 pain-based, 5 curiosity-based, 5 story-based). 
+   Each must be under 8 seconds spoken aloud.
 
-Generate the following:
-1. 5 Hook Variations (first 3 seconds)
-2. Full 30-second Script using PAS framework
-3. On-Screen Text Suggestions (3–5 overlays)
-4. Caption (150 words max) with hashtags
-5. A/B Test Suggestion
+2. FULL 60-SECOND SCRIPT:
+   [0–5s]  Hook
+   [5–20s] Problem agitation
+   [20–40s] Solution + demonstration
+   [40–50s] Social proof / results
+   [50–60s] CTA
 
-Format with [VISUAL], [VOICEOVER], and [TEXT OVERLAY] labels.
-```
+3. PLATFORM ADAPTATIONS of the script for:
+   TikTok | Instagram Reels | Facebook | YouTube Shorts
+
+4. 3 CTA VARIATIONS:
+   - Soft (curiosity-driven)
+   - Direct (urgency-driven)  
+   - Offer (discount/freebie)
+
+5. PRODUCTION NOTES — camera angles, props, b-roll, authenticity tips
+
+6. 15 HASHTAGS per platform
+
+Write in natural spoken voice. No corporate language. Goal = authentic, 
+high-converting UGC that feels real, not scripted.

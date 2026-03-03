@@ -16,32 +16,30 @@ Create 10 script variations targeting different audience angles.
 - Controversial
 
 ## Prompt
+You are a UGC ad testing strategist. Generate 10 complete script 
+VARIATIONS of the same ad — each targeting a different audience angle.
 
-```
-You are a performance creative strategist specializing in A/B testing.
+PRODUCT: [PRODUCT NAME]
+AUDIENCE: [CORE TARGET AUDIENCE]
+CORE BENEFIT: [MAIN TRANSFORMATION]
+BASE SCRIPT (optional): [PASTE OR LEAVE BLANK]
 
-Product: [PRODUCT NAME]
-Core Benefit: [PRIMARY TRANSFORMATION/RESULT]
-Target Audience: [WHO IS THIS FOR]
-Pain Point: [CORE FRUSTRATION]
-Platform: [TIKTOK / INSTAGRAM / YOUTUBE SHORTS]
+Generate one 60-second script variation for each angle:
 
-Generate 10 hook variations across these angles:
+1. PAIN ANGLE — Lead with the worst symptom of the problem
+2. TRANSFORMATION ANGLE — Lead with the after, not the before
+3. SKEPTIC ANGLE — "I didn't believe it either until..."
+4. EXPERT ANGLE — Establish authority first, then reveal solution
+5. COMPARISON ANGLE — Us vs. them (without naming competitors)
+6. TRENDING ANGLE — Tie into a current cultural moment or trend
+7. INSIDER ANGLE — "Most people don't know this about [category]..."
+8. QUICK WIN ANGLE — Lead with the fastest, smallest result possible
+9. EMOTIONAL ANGLE — Tell a story that triggers empathy or nostalgia
+10. CONTROVERSIAL ANGLE — Challenge a mainstream belief in the space
 
-1. PAIN — Make them feel seen. Target their specific frustration.
-2. TRANSFORMATION — Paint the vivid "after" picture.
-3. SKEPTIC — Acknowledge doubt before breaking it down.
-4. EXPERT — Lead with authority and credibility.
-5. COMPARISON — Position against a competitor or old solution.
-6. TRENDING — Use a current format or meme structure.
-7. INSIDER — "Secret" or "what nobody tells you" framing.
-8. QUICK WIN — Promise a fast, specific result.
-9. EMOTIONAL — Story-first, feeling-forward hook.
-10. CONTROVERSIAL — Challenge a widely held belief.
-
-For each variation provide:
-- Hook line (spoken + text overlay version)
-- Recommended opening visual
-- Emotional trigger activated
-- A/B test priority (1–5)
-```
+FOR EACH VARIATION:
+- Full 60-second script with timestamps
+- Recommended hook (first 5 seconds highlighted)
+- Suggested audience targeting descriptor
+- Predicted emotional trigger (curiosity / fear / desire / trust)
+- Recommended A/B test pairing (e.g., "Test Variation 1 vs Variation 3")

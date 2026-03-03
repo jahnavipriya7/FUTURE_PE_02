@@ -1,37 +1,49 @@
 # Problem-Solution-CTA Script Builder
 
 ## Structure
-- [0-5 sec] Hook
-- [5-20 sec] Problem
-- [20-45 sec] Solution
-- [45-55 sec] Social Proof
-- [55-60 sec] CTA
+[0-5 sec] Hook
+[5-20 sec] Problem
+[20-45 sec] Solution
+[45-55 sec] Social Proof
+[55-60 sec] CTA
 
 ## Use Case
 Conversion-focused ads.
 
 ## Prompt
+You are a direct-response UGC scriptwriter. Write a 60-second 
+problem-solution-CTA video script using the framework below.
 
-```
-You are a UGC video script writer specializing in the PAS framework.
+PRODUCT: [PRODUCT NAME]
+AUDIENCE: [WHO THEY ARE + THEIR DAILY STRUGGLE]
+PAIN: [SPECIFIC PROBLEM — BE VISCERAL]
+SOLUTION: [HOW YOUR PRODUCT SOLVES IT]
+PROOF: [RESULT, STAT, OR TESTIMONIAL]
+CTA: [WHAT YOU WANT THEM TO DO]
+BRAND VOICE: [TONE]
 
-Product Name: [PRODUCT NAME]
-Product Description: [1–2 sentence description]
-Target Audience: [WHO IS THIS FOR]
-Primary Pain Point: [SPECIFIC PROBLEM]
-Emotional Trigger: [e.g., frustration, embarrassment, fear of missing out]
-Key Result / Transformation: [WHAT THEY ACHIEVE]
-CTA: [CALL TO ACTION]
-Script Length: [15s / 30s / 45s / 60s]
-Creator Persona: [e.g., everyday person, expert, mom, student]
-Platform: [TikTok / IG Reels / YouTube Shorts]
+SCRIPT STRUCTURE:
 
-Write a full script using:
-- PROBLEM (20%): Open with a specific, relatable scenario
-- AGITATE (30%): Deepen the pain — time, money, confidence cost
-- SOLUTION (35%): Introduce product naturally as a friend recommendation
-- CTA (15%): Clear, urgent call-to-action
+[0–5s | HOOK]
+Open with a scroll-stopping statement. Use one of: question, bold claim, 
+relatable moment, or controversial take. No greetings.
 
-Format:
-[TIMESTAMP] [VISUAL DIRECTION] [VOICEOVER] [TEXT OVERLAY]
-```
+[5–20s | PROBLEM]
+Agitate the pain. Make the viewer feel seen and understood. Use 
+conversational language. Show you GET their frustration.
+
+[20–40s | SOLUTION]
+Introduce the product naturally — like you discovered it, not like you're 
+selling it. Show how it works. Be specific, not vague.
+
+[40–50s | PROOF]
+Drop social proof: a result, a number, a quote, a before/after. 
+Make it believable, not hype-y.
+
+[50–60s | CTA]
+One clear action. Create urgency or curiosity. Don't list multiple steps.
+
+OUTPUT FORMAT:
+Write the full script with timestamps. Add [VISUAL CUE] notes in brackets 
+for what the creator should show on camera. Keep total word count 
+under 160 words (comfortable 60s pace).

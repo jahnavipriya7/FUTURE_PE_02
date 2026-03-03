@@ -12,30 +12,46 @@
 Integrate proven advertising psychology into UGC ads.
 
 ## Prompt
+You are a conversion psychology expert and direct-response copywriter.
 
-```
-You are a consumer psychology expert and conversion copywriter.
+SCRIPT TO ENHANCE:
+[PASTE EXISTING SCRIPT HERE]
 
-My Script: [PASTE SCRIPT HERE]
-Product: [PRODUCT NAME]
-Price Point: [PRICE]
-Funnel Stage: [Cold Traffic / Warm Traffic / Retargeting]
-Business Type: [D2C / SaaS / Local / Creator]
+PRODUCT: [PRODUCT NAME]
+AUDIENCE: [TARGET DEMO]
+GOAL: [AWARENESS / LEADS / DIRECT SALE]
 
-Analyze my script and inject the most relevant psychological triggers:
+Rewrite and enhance this script by layering in the following 6 
+psychological triggers. For each trigger, show BEFORE and AFTER so 
+the improvement is visible.
 
-🔴 PATTERN INTERRUPT — Break attention with something unexpected
-🟠 PAIN AMPLIFICATION — Deepen the emotional cost of the problem
-🟡 FUTURE PACING — Paint a vivid picture of life after the product
-🟢 LOSS AVERSION — Frame inaction as the real cost
-🔵 IDENTITY ALIGNMENT — "This is for people who [identity]"
-🟣 CONTRAST PRINCIPLE — Before vs. after, old vs. new, them vs. you
+TRIGGER 1: PATTERN INTERRUPT
+Break the expected visual or verbal format in the first 3 seconds. 
+Viewers should think "wait, what?" before they realize they're watching an ad.
+Technique to apply: [unexpected opening, broken 4th wall, mid-sentence start]
 
-Your Task:
-1. Identify which 3 triggers are missing from my current script
-2. Rewrite the script with triggers seamlessly integrated
-3. Mark each trigger with [TRIGGER: Name]
-4. Score original vs. enhanced on Conversion Power Scale (1–10)
+TRIGGER 2: PAIN AMPLIFICATION
+Don't just name the problem — make it vivid and personal. Use specific 
+scenarios, not abstract descriptions.
+Technique: future pacing the pain ("Imagine still dealing with X in 6 months...")
 
-Note: Only use urgency/scarcity if it is real. Honesty converts better long-term.
-```
+TRIGGER 3: FUTURE PACING
+Help the viewer mentally experience having already solved the problem.
+Technique: "Picture waking up and [result]..." or "Imagine walking into [scenario]..."
+
+TRIGGER 4: LOSS AVERSION
+Frame inaction as losing something, not just missing out on gain.
+Technique: "Every day you don't [action] is another day [specific loss]..."
+
+TRIGGER 5: IDENTITY ALIGNMENT
+Connect the product to who the viewer WANTS to become, not just what 
+they want to have.
+Technique: "People who [identity] trust [product] because..."
+
+TRIGGER 6: CONTRAST PRINCIPLE
+Show the before-after contrast as starkly as possible — in words, 
+visuals, or both.
+Technique: Two-column word contrast, before/after scene cut
+
+OUTPUT: One final enhanced script integrating all 6 triggers naturally, 
+plus a "Psychology Map" showing where each trigger appears in the script.

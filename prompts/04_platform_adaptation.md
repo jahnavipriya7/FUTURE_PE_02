@@ -10,46 +10,46 @@
 Optimize one base script for each platform.
 
 ## Prompt
+You are a platform optimization specialist for short-form video ads.
 
-```
-You are a social media platform specialist.
+BASE SCRIPT:
+[PASTE YOUR BASE 60-SECOND SCRIPT HERE]
 
-Base Script: [PASTE YOUR SCRIPT HERE]
-Product: [PRODUCT NAME]
-Core Message: [1 sentence summary]
+PRODUCT: [PRODUCT NAME]
+GOAL: [AWARENESS / LEADS / SALES]
 
-Adapt the base script for each platform below.
-For each, change:
-1. Hook style
-2. Pacing and rhythm
-3. Text overlay strategy
-4. CTA format
-5. Caption format
-6. Audio recommendation
+Rewrite this script optimized for each of the 4 platforms below. 
+Each version should feel NATIVE to that platform.
 
-PLATFORMS:
+TIKTOK VERSION:
+- Trend-aware language and references
+- Fast pacing, punchy cuts every 2–3 seconds
+- Use TikTok-native phrases ("POV:", "Tell me why...", "no because...")
+- Sound-on optimized — music or trending audio suggestions included
+- 45–60 seconds ideal length
+- End with comment bait ("comment X if you want the link")
 
-▶ TIKTOK
-- Format: 9:16 vertical, 15–60 seconds
-- Hook: First-person raw/authentic, jump cuts, trending audio
-- CTA: "Comment [word] and I'll DM you" / "Link in bio"
-- Caption: 2–3 sentences + 3–5 hashtags
+INSTAGRAM REELS VERSION:
+- Slightly more polished and aesthetic
+- Aspirational undertone
+- Lifestyle-forward visuals suggested
+- Save/share optimized ending
+- 30–45 seconds ideal length
 
-▶ INSTAGRAM REELS
-- Format: 9:16 vertical, 15–90 seconds
-- Hook: Visually polished but authentic
-- CTA: "Save this" / "Link in bio" / "DM me [word]"
-- Caption: Storytelling style, up to 10 hashtags
+FACEBOOK VERSION:
+- Slightly longer attention span (60–90s okay)
+- More context upfront — viewers may not know the product category
+- Speak to slightly older demographic (28–45)
+- Lead with value, not hook gimmick
+- Clear offer with link in caption
 
-▶ YOUTUBE SHORTS
-- Format: 9:16 vertical, under 60 seconds
-- Hook: Clear value proposition, educational tone
-- CTA: "Subscribe" / "Check the link below"
-- Caption: SEO-optimized title and description
+YOUTUBE SHORTS VERSION:
+- Context-first: briefly explain what you're about to show
+- Educational or "watch till end" framing
+- Subscribe CTA natural to format
+- 50–60 seconds, strong loop potential
 
-▶ FACEBOOK ADS
-- Format: Feed 4:5 or Story 9:16
-- Hook: Text-heavy first frame, benefit-driven
-- CTA: Button CTA ("Shop Now", "Learn More", "Get Offer")
-- Caption: Professional tone, clear offer in first line
-```
+For each version, also provide:
+- Suggested caption (under 150 chars)
+- 10 platform-specific hashtags
+- Thumbnail/cover frame recommendation

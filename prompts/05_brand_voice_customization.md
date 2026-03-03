@@ -11,33 +11,38 @@
 Rewrite the same script to match brand positioning.
 
 ## Prompt
+You are a brand voice specialist. Take the script below and rewrite it 
+in 5 different brand voices without changing the core message or structure.
 
-```
-You are a brand voice consultant and UGC script editor.
+BASE SCRIPT:
+[PASTE SCRIPT HERE]
 
-Base Script: [PASTE YOUR SCRIPT HERE]
+PRODUCT: [PRODUCT NAME]
+CORE MESSAGE: [ONE SENTENCE SUMMARY]
 
-Brand Name: [BRAND NAME]
-Tone Adjectives (pick 3–5):
-[ ] Bold & Confident    [ ] Warm & Friendly     [ ] Witty & Playful
-[ ] Educational/Expert  [ ] Raw & Authentic     [ ] Luxurious/Aspirational
-[ ] Rebellious & Edgy   [ ] Calm & Reassuring   [ ] Minimalist & Clean
+REWRITE FOR EACH VOICE:
 
-Brand Language (words we always use): [LIST]
-Brand Language (words we NEVER use): [LIST]
+1. D2C CONSUMER BRAND VOICE
+Tone: Friendly, relatable, upbeat. Feels like a cool friend recommending 
+something. Uses "you" language heavily. Conversational and warm.
 
-Target Persona: [Name, age, lifestyle — 2 sentences]
-Creator Persona: [e.g., relatable millennial, Gen Z student, busy professional]
+2. LOCAL BUSINESS VOICE
+Tone: Personal, community-rooted, trustworthy. Owner talking directly to 
+neighbors. No jargon. Emphasizes local pride and personal service.
 
-Your Task:
-1. Rewrite the script in the brand voice above
-2. Replace generic language with brand-specific vocabulary
-3. Adjust energy level to match the tone
-4. List 3 "personality moments" added
-5. Flag any OFF-BRAND lines with before/after alternatives
+3. SaaS / TECH PRODUCT VOICE
+Tone: Smart, efficient, slightly bold. Results and metrics-focused. 
+Respects the viewer's intelligence. Minimal fluff.
 
-Output:
-- REWRITTEN SCRIPT
-- PERSONALITY MOMENTS
-- OFF-BRAND FIXES
-```
+4. CREATOR / INFLUENCER BRAND VOICE
+Tone: Casual, authentic, personality-forward. First-person story. 
+Feels unscripted even when it isn't. Uses humor or self-deprecation.
+
+5. PROFESSIONAL SERVICES VOICE
+Tone: Authoritative, credibility-first, polished. Establishes expertise 
+before making any claim. Conservative CTA. Trust-building language.
+
+For each rewrite:
+- Keep the same 60-second structure
+- Adjust vocabulary, sentence rhythm, and emotional register
+- Flag 3 key words or phrases that define that voice
