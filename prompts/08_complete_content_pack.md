@@ -1,106 +1,68 @@
-# 📦 COMPLETE CONTENT PACK GENERATOR
+# Complete UGC Content Pack Generator
 
-> **One prompt to get everything: scripts, captions, hooks, CTAs, and hashtags — ready to publish.**
+## Purpose
+Generate:
+- 15 Hooks
+- 5 Scripts
+- Platform adaptations
+- CTA library
+- Hashtags
+- Production notes
+- Testing framework
 
----
+## Instructions
+Fill all bracket fields before generating.
 
-## THE PROMPT
+## Prompt
 
 ```
-You are a full-stack content marketing AI. Generate a complete, publish-ready UGC content pack for my product.
+You are a full-stack content marketing AI.
 
---- PRODUCT BRIEFING ---
 Product Name: [YOUR PRODUCT NAME]
 Product Category: [CATEGORY]
 Key Benefit: [PRIMARY BENEFIT IN ONE LINE]
-Target Audience: [DESCRIBE YOUR IDEAL CUSTOMER]
+Target Audience: [IDEAL CUSTOMER]
 Primary Pain Point: [PROBLEM THEY FACE]
 Price: [PRICE POINT]
 Current Offer: [e.g., "20% off with code LAUNCH"]
 Brand Tone: [e.g., friendly, professional, bold, playful]
 Platform Priority: [TikTok / Instagram / YouTube Shorts]
 
---- GENERATE THE FOLLOWING ---
+Generate the complete content pack:
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 1: HOOKS (deliver 5)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-5 scroll-stopping hook lines with:
-- Spoken version (for voiceover)
-- Text version (for on-screen overlay)
-- Thumbnail frame description (what's visible in the first frame)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: HOOKS (15 variations)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Spoken + text overlay version for each.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 2: MAIN SCRIPTS (deliver 2)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Script A — 30 seconds, PAS framework, relatable tone
-Script B — 45 seconds, storytelling/transformation arc
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: SCRIPTS (5 variations)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+30s, 45s, 60s + 2 angle variants.
+Format: [TIMESTAMP] [VISUAL] [VOICEOVER] [TEXT OVERLAY]
 
-For each script, include:
-[TIMESTAMP] [VISUAL] [VOICEOVER] [TEXT OVERLAY]
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CTA LIBRARY (3 types)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Soft CTA / Hard CTA / Community CTA
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 3: CTA VARIATIONS (deliver 3)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CTA 1 — Soft CTA (value-forward, low pressure)
-CTA 2 — Hard CTA (urgency + specific action)
-CTA 3 — Community CTA (comment/save/share)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CAPTIONS (3 versions)
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Short (TikTok) / Medium (Instagram) / Long (YouTube)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 4: CAPTIONS (deliver 3)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Caption A — Short (under 100 words), punchy, TikTok-optimized
-Caption B — Medium (150 words), storytelling, Instagram-optimized  
-Caption C — Long (250 words), SEO-first, YouTube-optimized
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: HASHTAG STRATEGY
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Niche + mid-tier + trending hashtags.
 
-Each caption includes: Opening line, body, CTA, hashtag set
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: B-ROLL SHOT LIST
+━━━━━━━━━━━━━━━━━━━━━━━━━
+10 specific shots with angle, subject, action, mood.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 5: HASHTAG STRATEGY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-- 5 niche hashtags (high relevance, lower competition)
-- 5 mid-tier hashtags (10k–500k posts)
-- 3 trending/large hashtags (for discovery)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 6: B-ROLL SHOT LIST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-10 specific B-roll shot descriptions that complement the scripts above. 
-Include: angle, subject, action, mood.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 SECTION 7: A/B TEST RECOMMENDATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Which element to test first, why, and how to measure success.
-Include: KPI to track, benchmark to beat, test duration.
+━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: A/B TEST PLAN
+━━━━━━━━━━━━━━━━━━━━━━━━━
+What to test first, KPI to track, benchmark to beat.
 ```
-
----
-
-## CONTENT PACK CHECKLIST
-
-Use this to confirm your pack is complete before publishing:
-
-**Scripts**
-- [ ] 2 full scripts (30s + 45s)
-- [ ] 5 hook variations
-- [ ] 3 CTA options
-
-**Copy**
-- [ ] 3 captions (short / medium / long)
-- [ ] Hashtag set (niche + mid + large)
-
-**Production**
-- [ ] B-roll shot list (10 shots)
-- [ ] Text overlay suggestions embedded in script
-- [ ] Thumbnail / first-frame description
-
-**Strategy**  
-- [ ] A/B test plan with KPIs
-- [ ] Platform priority noted
-- [ ] Offer/CTA confirmed and active
-
----
-
-*You now have everything needed to shoot, edit, and publish a complete ad campaign.*  
-*See [`workflows/implementation_workflow.md`](../workflows/implementation_workflow.md) for the full production process.*
